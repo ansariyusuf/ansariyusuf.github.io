@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Engineering Computation (Lab Instructor)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/fall-2024-engineering-computation
+venue: "Texas A&M University"
+location: "College Station, USA"
+date: 2024-09-01
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Teaching Assistant for Engineering Computation, where responsibilities included guiding lab sessions, mentoring students, and assisting with computational problem-solving techniques.
