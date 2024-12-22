@@ -9,4 +9,4 @@ date: 2024-09-01
 semester: "Fall 2024"
 ---
 
-Teaching Assistant/Lab Instructo for Engineering Computation, focusing on Python-based computational problem solving. Responsibilities included developing and delivering recitation material on Python programming and algorithms, designing lab exercises to enhance coding proficiency, grading all assignments and quizzes, and proctoring exams and quizzes.
+Teaching Assistant/Lab Instructo for  during **Fall 2024**, focusing on Python-based computational problem solving. Responsibilities included developing and delivering recitation material on Python programming and algorithms, designing lab exercises to enhance coding proficiency, grading all assignments and quizzes, and proctoring exams and quizzes.
