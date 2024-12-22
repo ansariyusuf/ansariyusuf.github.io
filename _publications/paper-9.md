@@ -1,7 +1,7 @@
 ---
 title: "Neural network-based fast liver ultrasound image segmentation"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2023-07-10-fast-liver-ultrasound-segmentation
 excerpt: "This paper presents a neural network model designed for rapid and accurate liver ultrasound image segmentation, enhancing clinical workflow efficiency."
 date: 2023-07-10
