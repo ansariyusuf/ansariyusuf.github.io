@@ -3,7 +3,7 @@ title: "Enhancing ECG-based heart age: impact of acquisition parameters and gene
 collection: publications
 category: manuscripts
 permalink: /publication/2024-07-04-ecg-heart-age
-excerpt: "This paper evaluates ECG acquisition parameters and proposes generalization strategies for improving ECG-based heart age estimation under varying signal morphologies and corruptions."
+excerpt: "This paper evaluates the impact of ECG acquisition parameters and proposes generalization strategies for improving ECG-based heart age estimation under varying signal morphologies and corruptions."
 date: 2024-07-04
 venue: "Frontiers in Cardiovascular Medicine"
 paperurl: "https://www.frontiersin.org/articles/10.3389/fcvm.2024.1424585/full"
