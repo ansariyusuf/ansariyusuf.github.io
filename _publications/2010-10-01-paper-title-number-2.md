@@ -8,5 +8,5 @@ date: 2024-12-03
 venue: "Scientific Data"
 paperurl: "https://www.nature.com/articles/s41597-024-04107-0"
 slidesurl: #"http://academicpages.github.io/files/slides2.pdf"
-citation: 'Yaqoob, M., Ishaq, M., Ansari, M. Y., Konagandla, V. R. S., Tamimi, T. A., Tavani, S., Corradetti, A., & Seers, T. D. (2024). GeoCrack: A high-resolution dataset for segmentation of fracture edges in geological outcrops. <i>Scientific Data</i>, 11(1), 1-13.'
+citation: 'Yaqoob, M., Ishaq, M., Ansari, M. Y., Konagandla, V. R. S., Tamimi, T. A., Tavani, S., Corradetti, A., & Seers, T. D. (2024). GeoCrack: A high-resolution dataset for segmentation of fracture edges in geological outcrops. <i>Scientific Data</i>.'
 ---
