@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yusuf"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Mohammed Yusuf Ansari"
 description              : &description "personal website"
