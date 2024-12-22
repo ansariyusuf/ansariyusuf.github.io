@@ -1,5 +1,5 @@
 ---
-title: "ICT 668: Medical Image Processing (Lab Instructor)"
+title: "ICT-668: Medical Image Processing (Lab Instructor)"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/fall-2023-medical-image-processing

@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Development and Validation of a Class Imbalance-Resilient Cardiac Arrest Prediction Framework Incorporating Multiscale Aggregation, ICA, and Explainability"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+category: journal
+permalink: /publication/2024-12-18-cardiac-arrest-prediction
+excerpt: "This paper presents a novel framework for cardiac arrest prediction using multiscale feature aggregation and Independent Component Analysis (ICA) to improve explainability, accuracy, and cope with data imbalance."
+date: 2024-12-18
+venue: "IEEE Transactions on Biomedical Engineering"
+paperurl: "https://ieeexplore.ieee.org/"
+slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'http://academicpages.github.io/files/Development_and_Validation_of_a_Class_Imbalance-Resi.pdf'
+citation: 'Afsa, I., Ansari, M. Y., Paul, S., Halabi, O., Alataresh, E., Shah, J., Hamze, A., Aboumarzouk, O., Al-Ansari, A., & Dakua, S. P. (2024). Development and Validation of a Class Imbalance-Resilient Cardiac Arrest Prediction Framework Incorporating Multiscale Aggregation, ICA, and Explainability. <i>IEEE Transactions on Biomedical Engineering</i>.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
