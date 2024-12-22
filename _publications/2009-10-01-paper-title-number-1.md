@@ -8,6 +8,5 @@ date: 2024-12-18
 venue: "IEEE Transactions on Biomedical Engineering"
 paperurl: "https://ieeexplore.ieee.org/abstract/document/10806840"
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
-paperurl: #'http://academicpages.github.io/files/Development_and_Validation_of_a_Class_Imbalance-Resi.pdf'
 citation: 'Afsa, I., Ansari, M. Y., Paul, S., Halabi, O., Alataresh, E., Shah, J., Hamze, A., Aboumarzouk, O., Al-Ansari, A., & Dakua, S. P. (2024). Development and Validation of a Class Imbalance-Resilient Cardiac Arrest Prediction Framework Incorporating Multiscale Aggregation, ICA, and Explainability. <i>IEEE Transactions on Biomedical Engineering</i>.'
 ---
