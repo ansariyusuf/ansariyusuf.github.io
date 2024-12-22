@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to My Website"
+title: "About Me, My Research, and Teaching Philosophy"
 author_profile: true
 redirect_from: 
   - /about/
