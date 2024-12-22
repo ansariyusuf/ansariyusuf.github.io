@@ -7,6 +7,6 @@ excerpt: "This article evaluates the indirect relationship between adopting comp
 date: 2021-04-05
 venue: "IEEE Transactions on Radiation and Plasma Medical Sciences"
 paperurl: "https://ieeexplore.ieee.org/document/9395504"
-slidesurl: "#http://academicpages.github.io/files/slides13.pdf"
+slidesurl: #"http://academicpages.github.io/files/slides13.pdf"
 citation: 'Akhtar, Y., Dakua, S. P., Abdalla, A., Aboumarzouk, O. M., Ansari, M. Y., Abinahed, J., Elakkad, M. S. M., & Al-Ansari, A. (2021). Risk Assessment of Computer-Aided Diagnostic Software for Hepatic Resection. <i>IEEE Transactions on Radiation and Plasma Medical Sciences</i>.'
 ---
