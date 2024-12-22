@@ -1,7 +1,7 @@
 ---
 title: "Medical Image Processing (Lab Instructor)"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/fall-2023-medical-image-processing
 venue: "Hamad Bin Khalifa University"
 location: "Doha, Qatar"
